@@ -6,3 +6,4 @@
 ## Instructions
  * peel the avocados
  * add water
+ * drink alot
