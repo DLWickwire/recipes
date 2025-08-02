@@ -6,4 +6,4 @@
 ## Instructions
  * peel the avocados
  * add water
- *throw it all away
+ * throw it all away
